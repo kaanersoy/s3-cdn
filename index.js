@@ -7,7 +7,7 @@ app.use(router);
 
 app.get("/", (_,res) => {
   res.json({
-    "🦄": "emre"
+    "🦄": "vercel nodejs test <3<3<3"
   })
 })
 
